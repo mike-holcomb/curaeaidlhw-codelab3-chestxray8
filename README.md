@@ -5,7 +5,7 @@ These are the materials for the third code lab in Curae.ai's Deep Learning in He
 
 The notebook in this lab is only a baseline notebook meant to help users download the dataset and document its formatting. Users will compete using this multilabel classification in the Curae.ai DLWH competition.  Class is over! You are ready.
 
-![chestxray-cover](imgs/chestx-ray8)
+![chestxray-cover](imgs/chestx-ray8.png)
 
 ## Instructions for the competition
 TBD
